@@ -1,5 +1,5 @@
-from kivy import *
 
+from kivy.app import App
 
 
 
